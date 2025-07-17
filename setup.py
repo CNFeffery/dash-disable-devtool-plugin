@@ -7,7 +7,7 @@ setup(
     name="dash-disable-devtool-plugin",
     version="0.1.0",
     install_requires=[
-        "dash>=3.0.4",
+        "dash>=3.1.1",
     ],
     packages=["dash_disable_devtool_plugin"],
     author="CNFeffery",
