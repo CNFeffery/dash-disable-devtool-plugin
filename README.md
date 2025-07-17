@@ -4,7 +4,7 @@
 [![PyPI](https://img.shields.io/pypi/v/dash-disable-devtool-plugin.svg?color=dark-green)](https://pypi.org/project/dash-disable-devtool-plugin/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-A plugin to disable browser developer tools and other page operation permissions for Dash applications using Dash Hooks. You can check out this project on PyPi at: https://pypi.org/project/dash-disable-devtool-plugin
+A plugin to disable browser developer tools and other page operation permissions for Dash applications using Dash Hooks.
 
 ## Installation
 
